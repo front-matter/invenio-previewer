@@ -9,6 +9,10 @@
 Changes
 =======
 
+Version v6.1.0 (released 2026-07-31)
+
+- markdown: enable plugins strikethrough, footnotes, table
+
 Version v6.0.2 (released 2026-07-02)
 
 - chore(setup): migrate build backend from setuptools to hatchling
